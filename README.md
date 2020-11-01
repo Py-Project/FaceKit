@@ -118,7 +118,7 @@ understand and comply with the above provisions
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Ultimate-Facebook-Scraper.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Py-Project/FaceKit/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-## Author 👼
+## Contact The Author 👼
 <p align="center">
 	<a href="https://www.instagram.com/froggy__19/">
   <code><img src="https://img.shields.io/badge/Froggy__19%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></code>
@@ -133,7 +133,6 @@ If you face any issue, you can create a new issue in the Issues Tab and I will b
 	 <code><img src="https://img.shields.io/badge/XO%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></code>
 		</a>
 </p>
-
 ## License 📄
 
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](LICENSE)
