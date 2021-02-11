@@ -84,10 +84,10 @@ import os, time, random, FaceKit, sys
 ```
 You can also check the codes of Template they aren't mine cause i don't write `HTML` or `JS` or `CSS` a lot 🙅‍♂️ but i try to create magic using python.
 
- Also Don't be worry about updates i create a choice is number 5 for update:
+ Also Don't worry about updates i create a choice is number 5 for update:
  ```python
  elif choose == 5:
-		os.system("git pull --verbose https://github.com/Py-Project/FaceKit.git ")
+		os.system("git pull upstream master https://github.com/Py-Project/FaceKit.git ")
  ```
  Also i use bs4 for [output.py](https://github.com/Py-Project/FaceKit/blob/main/FaceKit/output.py)
  ```python
