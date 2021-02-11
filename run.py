@@ -87,7 +87,7 @@ def home():
 	elif choose == 4:
 		logout()
 	elif choose == 5:
-		os.system("git pull --verbose https://github.com/Py-Project/FaceKit ")
+		os.system("git pull upstream master https://github.com/Py-Project/FaceKit.git")
 
 def enter(func = home):
 	global count
