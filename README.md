@@ -120,9 +120,6 @@ understand and comply with the above provisions
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 ## Contact The Author 👼
 <p align="center">
-	<a href="https://www.instagram.com/froggy__19/">
-  <code><img src="https://img.shields.io/badge/Froggy__19%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></code>
-		</a>
 	<a href="https://www.twitch.tv/yassertahiri">
   <code><img src="https://img.shields.io/badge/yassertahiri%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></code>
 	</a>
