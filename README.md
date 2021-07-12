@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Py-Project/FaceKit/blob/main/img/facebook-logo.png">
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
-
-</p> 
-<p align="center"><img src="https://img.shields.io/badge/Author-Yezz123-green.svg"> 
-</p>
-
-
-<p align="center">
   <a href="https://github.com/yezz123">
     <img src="https://img.shields.io/github/followers/yezz123?label=Follow&style=social">
   </a>
@@ -118,16 +108,6 @@ understand and comply with the above provisions
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Ultimate-Facebook-Scraper.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Py-Project/FaceKit/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-## Contact The Author 👼
-<p align="center">
-	<a href="https://www.twitch.tv/yassertahiri">
-  <code><img src="https://img.shields.io/badge/yassertahiri%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></code>
-	</a>
-	<a href="https://twitter.com/THyasser1">
-  <code><img src="https://img.shields.io/badge/THyasser1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></code>
-  </a>
-		
-</p>
 
 ## License 📄
 
